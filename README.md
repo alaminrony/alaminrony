@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alaminrony.com](https://alaminrony.com)
 
-- 💬 Ask me about **Vue js**
+- 💬 Ask me about **Laravel & Vue js**
 
 - 📫 How to reach me **alaminrony100@gmail.com**
 
