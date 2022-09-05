@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alamin Rony</h1>
-<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
+<h3 align="center">I am passionate Full stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Laravel Nuxt js Ecommerce](https://github.com/alaminrony/Lumen-with-nuxt-ecommerce-frontend)
 
