@@ -2,7 +2,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/31636535/133980556-5e36795a-0f7f-4c0f-a076-013c0f07b233.gif)
 
-### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 JavaScript Lover 😍
+### <img src="" width="20"/> I'm a 😍 Full Stack developer 😍
 
 - 🔭 I’m currently working at [Sayburgh Solutions][office] as a backend developer
 - 🌱 I’m currently learning <b class="H1">Kubernetes <img src="https://kubernetes.io/images/nav_logo.svg" width="150"/>  </b>
