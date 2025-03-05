@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alamin Rony</h1>
 <h3 align="center">I am passionate Full stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on Onest Tech
+- 🔭 I’m currently working on Nanosoft
 
 - 🌱 I’m currently learning **Vue js, Nuxt js**
 
